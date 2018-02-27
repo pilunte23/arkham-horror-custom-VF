@@ -1,0 +1,391 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<set xmlns:noNamespaceSchemaLocation="CardSet.xsd" name="au bord du gouffre" id="d4abf770-8f2a-467b-ad84-4b0ec35167b3" gameId="a6d114c7-2e2a-4896-ad8c-0330605c90bf" gameVersion="1.0.0.0" version="1.0.0">
+ <cards>
+   <card id="ee4f8bcb-96e0-4c82-8751-4e7b4fe2a790" name="Au bord du gouffre" size="HorizCard">
+    <property name="Quantity" value="1"/>
+    <property name="Encounter Set" value="Au bord du gouffre"/>
+    <property name="Type" value="Agenda"/>
+    <property name="Level" value="1"/>
+    <property name="Doom" value="1"/>
+    <alternate name="Au bord du gouffre" type="B">
+      <property name="Encounter Set" value="Au bord du gouffre"/>
+	  <property name="Type" value="Agenda"/>
+    </alternate>
+  </card>
+  <card id="420556fc-55cc-4442-8ec4-97883cb549be" name="L'Enfer c'est les Autres !" size="HorizCard">
+    <property name="Quantity" value="1"/>
+    <property name="Encounter Set" value="Au bord du gouffre"/>
+    <property name="Type" value="Agenda"/>
+    <property name="Level" value="2"/>
+    <property name="Doom" value="8"/>
+    <alternate name="Temps de chien !" type="B">
+      <property name="Encounter Set" value="Au bord du gouffre"/>
+	  <property name="Type" value="Agenda"/>
+	  <property name="Level" value="2"/>
+    </alternate>
+  </card>
+  <card id="93b4b4ab-eb65-4b78-91fb-022970e0bb01" name="A un Pas des Ténèbres" size="HorizCard">
+    <property name="Quantity" value="1"/>
+    <property name="Encounter Set" value="Au bord du gouffre"/>
+    <property name="Type" value="Agenda"/>>
+    <property name="Level" value="3"/>
+    <property name="Doom" value="6"/>
+    <alternate name="Couloir de la Mort ! " type="B">
+      <property name="Encounter Set" value="Au bord du gouffre"/>
+	  <property name="Type" value="Agenda"/>
+      <property name="Level" value="3"/>
+    </alternate>
+  </card>
+  <card id="76199276-6c4c-48e1-ba54-42cc17368905" name="Château de Cartes" size="HorizCard">
+    <property name="Quantity" value="1"/>
+    <property name="Encounter Set" value="Au bord du gouffre"/>
+    <property name="Type" value="Agenda"/>
+    <property name="Level" value="4"/>
+    <property name="Doom" value="3"/>
+    <alternate name="Delivrez Moi du Mal …" type="B">
+      <property name="Encounter Set" value="Au bord du gouffre"/>
+	  <property name="Type" value="Agenda"/>
+      <property name="Level" value="4"/>
+    </alternate>
+  </card>
+  <card id="637cfd37-e3ed-4264-9e16-5519767d97df" name="Sous nos Pieds" size="HorizCard">
+    <property name="Quantity" value="1"/>
+    <property name="Encounter Set" value="Au bord du gouffre"/>
+    <property name="Type" value="Agenda"/>
+    <property name="Level" value="5"/>
+    <property name="Doom" value="10"/>
+    <alternate name="Au fond du gouffre" type="B">
+      <property name="Encounter Set" value="Au bord du gouffre"/>
+	  <property name="Type" value="Agenda"/>
+      <property name="Level" value="5"/>
+    </alternate>
+  </card>
+  <card id="fe0cac45-0320-4781-ace3-125f382800ff" name="Un verre de trop " size="HorizCard">
+    <property name="Quantity" value="1"/>
+    <property name="Encounter Set" value="Au bord du gouffre"/>
+    <property name="Type" value="Act"/>
+    <property name="Level" value="1"/>
+    <property name="Clues" value="2π"/>
+    <alternate name="Un verre de trop " type="B">
+      <property name="Encounter Set" value="Au bord du gouffre"/>
+	  <property name="Type" value="Act"/>
+      <property name="Level" value="1"/>
+    </alternate>
+  </card>
+  <card id="714f71e7-39cb-4b39-8850-0a393263483a" name="Réveil Brutal" size="HorizCard">
+    <property name="Quantity" value="1"/>
+    <property name="Encounter Set" value="Au bord du gouffre"/>
+    <property name="Type" value="Act"/>
+    <property name="Level" value="2"/>
+    <property name="Clues" value="5π"/>
+    <alternate name="Réveil Brutal" type="B">
+      <property name="Encounter Set" value="Au bord du gouffre"/>
+	  <property name="Type" value="Act"/>
+      <property name="Level" value="2"/>
+    </alternate>
+  </card>
+  <card id="cbbfaa4d-7d61-4e80-a583-712fd8c4cceb" name="Les empreintes du mal" size="HorizCard">
+    <property name="Quantity" value="1"/>
+    <property name="Encounter Set" value="Au bord du gouffre"/>
+    <property name="Type" value="Act"/>
+    <property name="Level" value="3"/>
+    <property name="Clues" value="3π"/>
+    <alternate name="Les empreintes du mal" type="B">
+      <property name="Encounter Set" value="Au bord du gouffre"/>
+	  <property name="Type" value="Act"/>
+      <property name="Level" value="3"/>
+    </alternate>
+  </card>
+  <card id="1351d7da-02e5-4fbe-94f5-979e4600b1aa" name="La Traque du Dr. Halsey" size="HorizCard">
+    <property name="Quantity" value="1"/>
+    <property name="Encounter Set" value="Au bord du gouffre"/>
+    <property name="Type" value="Act"/>
+    <property name="Level" value="4"/>
+    <property name="Clues" value="-"/>
+    <alternate name="La Traque du Dr. Halsey" type="B">
+      <property name="Encounter Set" value="Au bord du gouffre"/>
+	  <property name="Type" value="Act"/>
+      <property name="Level" value="4"/>
+    </alternate>
+  </card>
+  <card id="37066ab8-e9c7-4563-bf7f-9f9fca1b9c43" name="Molosse Goule" size="EncounterCard">
+	<property name="Card Number" value="1"/>
+	<property name="Quantity" value="3"/>
+    <property name="Encounter Set" value="au bord du gouffre"/>
+    <property name="Type" value="Enemy"/>
+    <property name="Combat" value="2"/>
+    <property name="Health" value="3"/>
+	<property name="Agility" value="4"/>
+	<property name="Damage" value="1"/>
+    <property name="Horror" value="1"/>
+	<property name="Traits" value="Monstre."/>
+  </card>
+   <card id="650dcd77-43f4-481f-8eeb-15a486bb6e9f" name="Alliéné Possédé" size="EncounterCard">
+    <property name="Card Number" value="2"/>
+    <property name="Quantity" value="3"/>
+    <property name="Encounter Set" value="au bord du gouffre"/>
+    <property name="Type" value="Enemy"/>
+	<property name="Combat" value="3"/>
+    <property name="Health" value="2"/>
+	<property name="Agility" value="2"/>
+	<property name="Damage" value="1"/>
+	<property name="Traits" value="Cultiste. Humanoïde."/>
+	<property name="Keywords" value="Chasseur. Riposte."/>
+  </card>
+   <card id="fd034a6d-9286-4215-8f2c-c3beeec44e20" name="Absorbé par les ténèbres" size="EncounterCard">
+    <property name="Card Number" value="3"/>
+    <property name="Quantity" value="3"/>
+    <property name="Encounter Set" value="Au bord du gouffre"/>
+	<property name="Type" value="Treachery"/>
+    <property name="Traits" value="Sortilège."/>
+  </card>
+ 
+  <card id="0f657d49-5dd8-4ce4-a7f3-84ad20ba6663" name="Kaëlynn.W" >
+  		<property name="Card Number" value="4"/>
+		<property name="Quantity" value="1"/>
+		<property name="Encounter Set" value="Alliéné"/>
+		<property name="Type" value="Enemy"/>
+		<property name="Combat" value="3"/>
+		<property name="Health" value="2"/>
+		<property name="Agility" value="2"/>
+		<property name="Damage" value="2"/>
+		<property name="Horror" value="1"/>
+		<property name="Victory Points" value="1"/>
+		<property name="Traits" value="Alliéné,Humanoïde,Cultiste"/>
+		<property name="Keywords" value="Chasseur. Elite."/>
+	<alternate name="Kaëlynn.W" type="B">
+		<property name="Encounter Set" value="Alliéné"/>
+		<property name="Type" value="Enemy"/>
+		<property name="Combat" value="3"/>
+		<property name="Health" value="2"/>
+		<property name="Agility" value="2"/>
+		<property name="Damage" value="2"/>
+		<property name="Horror" value="1"/>
+		<property name="Victory Points" value="1"/>
+		<property name="Traits" value="Alliéné,Humanoïde,Cultiste"/>
+		<property name="Keywords" value="Chasseur. Elite."/>
+	</alternate>
+  </card>
+
+  <card id="96eaaf8b-660c-4edd-9541-bb7d894b5361" name="William C.Webb" >
+	<property name="Quantity" value="1"/>
+	<property name="Card Number" value="5"/>
+	<property name="Encounter Set" value="Alliéné"/>
+	<property name="Class" value="Neutral"/>
+	<property name="Type" value="Asset"/>
+	<property name="Cost" value="0"/>
+	<property name="Health" value="2"/>
+	<property name="Sanity" value="2"/>
+	<alternate name="William C.Webb" type="B">
+		<property name="Encounter Set"  value="Alliéné"/>
+		<property name="Class" value="Neutral"/>
+		<property name="Type" value="Asset"/>
+		<property name="Cost" value="0"/>
+		<property name="Health" value="2"/>
+		<property name="Sanity" value="2"/>
+	</alternate>
+  </card>
+  <card id="fc8c3f63-5ae8-48dc-a2e4-251fdba5ea9a" name="Tituba Salem" >
+	<property name="Quantity" value="1"/>
+	<property name="Card Number" value="6"/>
+	<property name="Encounter Set" value="Alliéné"/>
+	<property name="Class" value="Neutral"/>
+	<property name="Type" value="Asset"/>
+	<property name="Cost" value="0"/>
+	<property name="Health" value="4"/>
+	<property name="Sanity" value="2"/>
+	<alternate name="Tituba Salem" type="B">
+		<property name="Encounter Set" value="Alliéné"/>
+		<property name="Class" value="Neutral"/>
+		<property name="Type" value="Asset"/>
+		<property name="Cost" value="0"/>
+		<property name="Health" value="4"/>
+		<property name="Sanity" value="2"/>
+	</alternate>
+  </card>
+  <card id="eef6ec52-bd84-4215-8d5b-95c954c7bc68" name="Alan Hebin">
+	<property name="Quantity" value="1"/>
+	<property name="Card Number" value="7"/>
+	<property name="Encounter Set" value="Alliéné"/>
+	<property name="Class" value="Neutral"/>
+	<property name="Type" value="Asset"/>
+	<property name="Cost" value="0"/>
+	<property name="Health" value="1"/>
+	<property name="Sanity" value="4"/>
+	<alternate name="Alan Hebin" type="B">
+		<property name="Encounter Set" value="Alliéné"/>
+		<property name="Class" value="Neutral"/>
+		<property name="Type" value="Asset"/>
+		<property name="Cost" value="0"/>
+		<property name="Health" value="1"/>
+		<property name="Sanity" value="4"/>
+	</alternate>
+  </card>
+  <card id="82a16afc-1df8-4d92-8fb5-65802d93db02" name="Au bord du gouffre">
+    <property name="Quantity" value="1"/>
+    <property name="Encounter Set" value="Au bord du gouffre"/>
+    <property name="Type" value="Scenario"/>
+  </card>
+  <card id="b0e1fc10-133f-495f-aff6-7e49db1dc4c7" name="Règles spécifiques">
+    <property name="Quantity" value="1"/>
+    <property name="Encounter Set" value="Au bord du gouffre"/>
+  </card>
+  <card id="9be42826-43cc-4b7e-b632-a24bf443a1a5" name="Dr Herbert Welt " size="EncounterCard">
+    <property name="Quantity" value="1"/>
+    <property name="Encounter Set" value="Au bord du gouffre"/>
+	<property name="Type" value="Enemy"/>
+	<property name="Combat" value="3"/>
+    <property name="Health" value="6"/>
+	<property name="Agility" value="3"/>
+	<property name="Damage" value="2"/>
+    <property name="Horror" value="2"/>
+	<property name="Traits" value="Elite. Humanoïde."/>
+  </card>
+  <card id="3b6c25ae-0e52-43cc-82e4-da13b3ebbc5f" name="Secret des catacombes" size="EncounterCard">
+    <property name="Quantity" value="1"/>
+    <property name="Encounter Set" value="Au bord du gouffre"/>
+    <property name="Type" value="Location"/>
+    <property name="Class" value="Mythos"/>
+    <alternate name="Secret des catacombes" type="B">
+      <property name="Encounter Set" value="Au bord du gouffre"/>
+    </alternate>
+  </card>
+  <card id="c5f0ebd2-2fd7-453c-bcba-c29e364eb744" name="Secret des catacombes" size="EncounterCard">
+    <property name="Quantity" value="1"/>
+    <property name="Encounter Set" value="Au bord du gouffre"/>
+    <property name="Type" value="Location"/>
+    <property name="Class" value="Mythos"/>
+    <alternate name="Secret des catacombes" type="B">
+      <property name="Encounter Set" value="Au bord du gouffre"/>
+    </alternate>
+  </card>
+  <card id="156a3f41-1a55-4ebe-96aa-54f8b9a9d93b" name="Secret des catacombes" size="EncounterCard">
+    <property name="Quantity" value="1"/>
+    <property name="Encounter Set" value="Au bord du gouffre"/>
+    <property name="Type" value="Location"/>
+    <property name="Class" value="Mythos"/>
+    <alternate name="Secret des catacombes" type="B">
+      <property name="Encounter Set" value="Au bord du gouffre"/>
+    </alternate>
+  </card>
+  <card id="b9721abe-b5a2-491a-8c4b-fef3a56210f2" name="Secret des catacombes" size="EncounterCard">
+    <property name="Quantity" value="1"/>
+    <property name="Encounter Set" value="Au bord du gouffre"/>
+    <property name="Type" value="Location"/>
+    <property name="Class" value="Mythos"/>
+    <alternate name="Secret des catacombes" type="B">
+      <property name="Encounter Set" value="Au bord du gouffre"/>
+    </alternate>
+  </card>
+  <card id="c2c1784a-e2f8-4a14-adf2-4efbc5fb106b" name="Carrefour des ténèbres" size="EncounterCard">
+    <property name="Quantity" value="1"/>
+    <property name="Encounter Set" value="Au bord du gouffre"/>
+    <property name="Type" value="Location"/>
+    <property name="Class" value="Mythos"/>
+    <alternate name="Carrefour des ténèbres" type="B">
+      <property name="Encounter Set" value="Au bord du gouffre"/>
+    </alternate>
+  </card>
+  <card id="9148e6da-14a1-4934-ac1b-2710f3e5bb80" name="Laboratoire Secret" size="EncounterCard">
+    <property name="Quantity" value="1"/>
+    <property name="Encounter Set" value="Au bord du gouffre"/>
+    <property name="Type" value="Location"/>
+    <property name="Class" value="Mythos"/>
+    <alternate name="Laboratoire Secret" type="B">
+      <property name="Encounter Set" value="Au bord du gouffre"/>
+    </alternate>
+  </card>
+  <card id="d5478b33-1310-411c-9807-29ab70b5651b" name="Chambre d'isolement" size="EncounterCard">
+    <property name="Quantity" value="1"/>
+    <property name="Encounter Set" value="Au bord du gouffre"/>
+    <property name="Type" value="Location"/>
+    <property name="Class" value="Mythos"/>
+    <alternate name="Chambre d'isolement" type="B">
+      <property name="Encounter Set" value="Au bord du gouffre"/>
+    </alternate>
+  </card>
+  <card id="0b5b6c45-5161-46e0-b19f-3ac8a5a3ee27" name="Chambre de Lita Chantler" size="EncounterCard">
+    <property name="Quantity" value="1"/>
+    <property name="Encounter Set" value="Au bord du gouffre"/>
+    <property name="Type" value="Location"/>
+    <property name="Class" value="Mythos"/>
+    <alternate name="Chambre de Lita Chantler" type="B">
+      <property name="Encounter Set" value="Au bord du gouffre"/>
+    </alternate>
+  </card>
+  <card id="7502070e-cf5b-4aa0-b1aa-e0f1f9b865f0" name="Chambre d'isolement" size="EncounterCard">
+    <property name="Quantity" value="1"/>
+    <property name="Encounter Set" value="Au bord du gouffre"/>
+    <property name="Type" value="Location"/>
+    <property name="Class" value="Mythos"/>
+    <alternate name="Chambre d'isolement" type="B">
+      <property name="Encounter Set" value="Au bord du gouffre"/>
+    </alternate>
+  </card>
+  <card id="f509abde-9329-4029-9753-274d3de0df9c" name="Chambre d'isolement" size="EncounterCard">
+    <property name="Quantity" value="1"/>
+    <property name="Encounter Set" value="Au bord du gouffre"/>
+    <property name="Type" value="Location"/>
+    <property name="Class" value="Mythos"/>
+    <alternate name="Chambre d'isolement" type="B">
+      <property name="Encounter Set" value="Au bord du gouffre"/>
+    </alternate>
+  </card>
+  <card id="2e7b2fc0-ffa3-4653-8ab8-9f115f916bb6" name="Couloirs immondes" size="EncounterCard">
+    <property name="Quantity" value="1"/>
+    <property name="Encounter Set" value="Au bord du gouffre"/>
+    <property name="Type" value="Location"/>
+    <property name="Class" value="Mythos"/>
+    <alternate name="Couloirs immondes" type="B">
+      <property name="Encounter Set" value="Au bord du gouffre"/>
+    </alternate>
+  </card>
+  <card id="7de7f7ca-55aa-422d-9ba1-266dd08d34a9" name="Chambre d'isolement  " size="EncounterCard">
+    <property name="Quantity" value="1"/>
+    <property name="Encounter Set" value="Au bord du gouffre"/>
+    <property name="Type" value="Location"/>
+    <property name="Class" value="Mythos"/>
+    <alternate name="Chambre d'isolement  " type="B">
+      <property name="Encounter Set" value="Au bord du gouffre"/>
+    </alternate>
+  </card>
+  <card id="fcc4799d-3e5d-4a5c-8f90-ec19b996288d" name="Accueil Sefton" size="EncounterCard">
+    <property name="Quantity" value="1"/>
+    <property name="Encounter Set" value="Au bord du gouffre"/>
+    <property name="Type" value="Location"/>
+    <property name="Class" value="Mythos"/>
+    <alternate name="Accueil Sefton" type="B">
+      <property name="Encounter Set" value="Au bord du gouffre"/>
+    </alternate>
+  </card>
+  <card id="fd623eec-5083-48a0-b70f-65a0f056720a" name="Hall" size="EncounterCard">
+    <property name="Quantity" value="1"/>
+    <property name="Encounter Set" value="Au bord du gouffre"/>
+    <property name="Type" value="Location"/>
+    <property name="Class" value="Mythos"/>
+    <property name="Text" value="Un espace paisible pour les rats, visiblement peu inquiétés par les équipes d'entretien de l'institut"/>
+    <alternate name="Hall" type="B">
+      <property name="Encounter Set" value="Au bord du gouffre"/>
+      <property name="Shroud" value="2"/>
+      <property name="Clues" value="2π "/>
+      <property name="Text" value="η: Abandon  Vous arrivez près de la porte exténué et apeuré avec l'envie désésperéé de rentrer chez vous. Vous prenez vos jambes à votre cou laissant à leur triste sort les détenus de cet asile macabre. &quot;Y'a bien que les rats pour abandonner le navire&quot; => CC2"/>
+    </alternate>
+  </card>
+  <card id="c346e085-ac04-466f-9833-9347a26b1d7c" name="Bureau du Dr. Halsey  " size="EncounterCard">
+    <property name="Quantity" value="1"/>
+    <property name="Encounter Set" value="Au bord du gouffre"/>
+    <property name="Type" value="Location"/>
+    <property name="Class" value="Mythos"/>
+    <alternate name="Bureau du Dr. Halsey  " type="B">
+      <property name="Encounter Set" value="Au bord du gouffre"/>
+    </alternate>
+  </card>
+  <card id="d9ddb20e-620b-47a8-afcf-b4681124ba08" name="Journal de Lita Chantler">
+    <property name="Quantity" value="1"/>
+    <property name="Encounter Set" value="Au bord du gouffre"/>
+	<property name="Type" value="Asset"/>
+    <property name="Class" value="Neutral"/>
+	<property name="Slot" value="Hand"/>
+  </card>
+ </cards>
+</set>

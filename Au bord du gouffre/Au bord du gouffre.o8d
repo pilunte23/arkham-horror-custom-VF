@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="a6d114c7-2e2a-4896-ad8c-0330605c90bf" sleeveid="0">
+  <section name="Agenda" shared="True"> 
+    <card qty="1" id="ee4f8bcb-96e0-4c82-8751-4e7b4fe2a790">Au bord du gouffre</card> 
+    <card qty="1" id="420556fc-55cc-4442-8ec4-97883cb549be">L'Enfer c'est les Autres !</card> 
+    <card qty="1" id="93b4b4ab-eb65-4b78-91fb-022970e0bb01">A un Pas des Ténèbres</card>
+    <card qty="1" id="76199276-6c4c-48e1-ba54-42cc17368905">Château de Cartes</card>
+    <card qty="1" id="637cfd37-e3ed-4264-9e16-5519767d97df">Sous nos Pieds</card> 
+  </section> 
+  <section name="Act" shared="True"> 
+    <card qty="1" id="fe0cac45-0320-4781-ace3-125f382800ff">Un verre de trop </card> 
+    <card qty="1" id="714f71e7-39cb-4b39-8850-0a393263483a">Réveil Brutal</card>
+    <card qty="1" id="cbbfaa4d-7d61-4e80-a583-712fd8c4cceb">Les empreintes du mal</card> 
+    <card qty="1" id="1351d7da-02e5-4fbe-94f5-979e4600b1aa">La Traque du Dr. Halsey</card> 
+  </section> 
+  <section name="Encounter" shared="True">
+    <card qty="3" id="76a906b0-eea1-4ce1-9982-f7e0f1aab553">Swarm of Rats</card>
+    <card qty="3" id="03482753-a71c-45ec-a97a-e6cb454ae835">Ghoul Minion</card>
+    <card qty="1" id="a70a2df7-2520-47ea-97b9-374714113140">Ravenous Ghoul</card>
+    <card qty="3" id="bb8ebf83-dcca-41ed-bc48-2240fbc1685e">Grasping Hands</card>
+    <card qty="3" id="d411e61d-9f83-49cb-bc13-d5d6b5c58336">Rotting Remains</card>
+    <card qty="2" id="569bb661-9875-4e36-a23e-a865df3fca21">Frozen in Fear</card>
+    <card qty="2" id="27eb17a3-e8ae-4c44-9f56-1018e6047d67">Dissonant Voices</card>
+    <card qty="3" id="2f2f179f-dbbc-4bfc-85cc-b67e1bd7aa9a">Ancient Evils</card>
+    <card qty="2" id="457be9d8-fdd3-4319-86eb-de9d07a5e572">Crypt Chill</card>
+    <card qty="2" id="91a7fccc-8260-413c-b181-48f04ef58b99">Obscuring Fog</card>
+    <card qty="3" id="8d7edcd9-63e0-4d2f-b8a1-c1e7cbf11c7a">Acolyte</card>
+    <card qty="1" id="5287d028-b018-45ec-b63c-553262c4cb8b">Wizard of the Order</card>
+    <card qty="2" id="64d5c48c-02fb-48ac-b3ea-086a20721d69">Mysterious Chanting</card>
+    <card qty="2" id="6ea5fdd2-d464-42f1-b734-6a34edcf0329">Yithian Observer</card>
+    <card qty="2" id="085d8d82-3331-4eda-bcba-e51285fa9b0e">Offer of Power</card>
+    <card qty="3" id="315c1f0b-7284-4aa5-87ef-1008c491138f">Whippoorwill</card>
+	<card qty="3" id="37066ab8-e9c7-4563-bf7f-9f9fca1b9c43">Molosse Goule</card>
+	<card qty="3" id="650dcd77-43f4-481f-8eeb-15a486bb6e9f">Alliéné Possédé</card>
+    <card qty="3" id="fd034a6d-9286-4215-8f2c-c3beeec44e20">Absorbé par les ténèbres</card>
+  </section>
+
+  <section name="Special" shared="True">  
+    <card qty="1" id="0f657d49-5dd8-4ce4-a7f3-84ad20ba6663">Kaëlynn.W</card>
+    <card qty="1" id="96eaaf8b-660c-4edd-9541-bb7d894b5361">William C.Webb</card>
+    <card qty="1" id="fc8c3f63-5ae8-48dc-a2e4-251fdba5ea9a">Tituba Salem</card>
+    <card qty="1" id="eef6ec52-bd84-4215-8d5b-95c954c7bc68">Alan Hebin</card>
+  </section>
+  <section name="Setup" shared="True">
+    <card qty="1" id="82a16afc-1df8-4d92-8fb5-65802d93db02">Au bord du gouffre</card>
+	<card qty="1" id="9be42826-43cc-4b7e-b632-a24bf443a1a5">Dr Herbert Welt</card> 	
+	<card qty="1" id="d9ddb20e-620b-47a8-afcf-b4681124ba08">Journal de Lita Chantler</card>
+    <card qty="1" id="0b5b6c45-5161-46e0-b19f-3ac8a5a3ee27">Chambre de Lita Chantler</card>	
+	<card qty="1" id="d5478b33-1310-411c-9807-29ab70b5651b">Chambre d'isolement</card>
+    <card qty="1" id="7502070e-cf5b-4aa0-b1aa-e0f1f9b865f0">Chambre d'isolement</card>
+    <card qty="1" id="f509abde-9329-4029-9753-274d3de0df9c">Chambre d'isolement</card>
+	<card qty="1" id="7de7f7ca-55aa-422d-9ba1-266dd08d34a9">Chambre d'isolement</card>  
+    <card qty="1" id="2e7b2fc0-ffa3-4653-8ab8-9f115f916bb6">Couloirs immondes</card>
+    <card qty="1" id="fcc4799d-3e5d-4a5c-8f90-ec19b996288d">Accueil Sefton</card>
+    <card qty="1" id="fd623eec-5083-48a0-b70f-65a0f056720a">Hall</card>
+    <card qty="1" id="c346e085-ac04-466f-9833-9347a26b1d7c">Bureau du Dr. Halsey</card>  	
+	<card qty="1" id="b0e1fc10-133f-495f-aff6-7e49db1dc4c7">Règles spécifiques</card>
+  </section>	
+  <section name="Location" shared="True">
+	<card qty="1" id="3b6c25ae-0e52-43cc-82e4-da13b3ebbc5f">Secret des catacombes</card>
+	<card qty="1" id="c5f0ebd2-2fd7-453c-bcba-c29e364eb744">Secret des catacombes</card>
+	<card qty="1" id="156a3f41-1a55-4ebe-96aa-54f8b9a9d93b">Secret des catacombes</card>
+	<card qty="1" id="b9721abe-b5a2-491a-8c4b-fef3a56210f2">Secret des catacombes</card>
+	<card qty="1" id="c2c1784a-e2f8-4a14-adf2-4efbc5fb106b">Carrefour des ténèbres</card>
+    <card qty="1" id="9148e6da-14a1-4934-ac1b-2710f3e5bb80">Laboratoire Secret</card>
+  </section>
+  <section name="Investigator" shared="False" />
+  <section name="Asset" shared="False" />
+  <section name="Event" shared="False" />
+  <section name="Skill" shared="False" />
+  <section name="Weakness" shared="False" />
+  <section name="Sideboard" shared="False" />
+  <section name="Second Special" shared="True" />
+  <section name="Chaos Bag" shared="True" />
+  <notes><![CDATA[]]></notes>
+</deck>
