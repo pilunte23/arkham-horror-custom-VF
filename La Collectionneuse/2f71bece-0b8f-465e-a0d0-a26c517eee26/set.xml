@@ -10,6 +10,7 @@
     <alternate name="Cambriolage" type="B">
       <property name="Encounter Set" value="La Collectionneuse"/>
 	  <property name="Type" value="Agenda"/>
+	  <property name="Level" value="1"/>
     </alternate>
   </card>
   <card id="0ff75094-9254-4aef-b5b7-71fdd0db90c4" name="La Collectionneuse" size="HorizCard">
@@ -21,6 +22,7 @@
     <alternate name="La Collectionneuse" type="B">
       <property name="Encounter Set" value="La Collectionneuse"/>
 	  <property name="Type" value="Agenda"/>
+	  <property name="Level" value="2"/>
     </alternate>
   </card>
   <card id="bf1407af-e2d9-4499-be49-f44e424dd6ea" name="L'étreinte de l'ombre" size="HorizCard">
@@ -32,6 +34,7 @@
     <alternate name="L'étreinte de l'ombre" type="B">
       <property name="Encounter Set" value="La Collectionneuse"/>
 	  <property name="Type" value="Agenda"/>
+	  <property name="Level" value="3"/>
     </alternate>
   </card>
    <card id="3374390e-ef3e-4ce6-90cb-9e95aefd4520" name="Cambriolage" size="HorizCard">

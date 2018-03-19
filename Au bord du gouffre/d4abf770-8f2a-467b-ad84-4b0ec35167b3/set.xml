@@ -10,6 +10,7 @@
     <alternate name="Au bord du gouffre" type="B">
       <property name="Encounter Set" value="Au bord du gouffre"/>
 	  <property name="Type" value="Agenda"/>
+	  <property name="Level" value="1"/>
     </alternate>
   </card>
   <card id="420556fc-55cc-4442-8ec4-97883cb549be" name="L'Enfer c'est les Autres !" size="HorizCard">
