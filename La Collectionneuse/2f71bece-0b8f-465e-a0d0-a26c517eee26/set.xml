@@ -67,7 +67,7 @@
       <property name="Encounter Set" value="La Collectionneuse"/>
     </alternate>
   </card>
-  <card id="66824573-37ef-499e-a7f6-045d9381e75b" name="Salle de la préhistoire" size="EncounterCard">
+  <card id="adad44e6-df44-4286-a01d-6ec484bc5a5b" name="Salle de la préhistoire" size="EncounterCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="La Collectionneuse"/>
     <property name="Type" value="Location"/>
@@ -76,7 +76,7 @@
       <property name="Encounter Set" value="La Collectionneuse"/>
     </alternate>
   </card>
-  <card id="66824573-37ef-499e-a7f6-045d9381e75b" name="Salle d'antiquité" size="EncounterCard">
+  <card id="f85e5e57-82f2-4ecb-83d8-7ef32562a2b9" name="Salle d'antiquité" size="EncounterCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="La Collectionneuse"/>
     <property name="Type" value="Location"/>
@@ -85,7 +85,7 @@
       <property name="Encounter Set" value="La Collectionneuse"/>
     </alternate>
   </card>
-  <card id="66824573-37ef-499e-a7f6-045d9381e75b" name="Salle de l'exotisme" size="EncounterCard">
+  <card id="97ed3efc-b577-45c6-bb7d-d4a5cb390a28" name="Salle de l'exotisme" size="EncounterCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="La Collectionneuse"/>
     <property name="Type" value="Location"/>
@@ -94,7 +94,7 @@
       <property name="Encounter Set" value="La Collectionneuse"/>
     </alternate>
   </card>
-  <card id="66824573-37ef-499e-a7f6-045d9381e75b" name="Réserve" size="EncounterCard">
+  <card id="6c1b0a4b-9e45-4ad1-878f-a48facafd61e" name="Réserve" size="EncounterCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="La Collectionneuse"/>
     <property name="Type" value="Location"/>
@@ -103,7 +103,7 @@
       <property name="Encounter Set" value="La Collectionneuse"/>
     </alternate>
   </card>
-  <card id="66824573-37ef-499e-a7f6-045d9381e75b" name="Bureau du conservateur" size="EncounterCard">
+  <card id="7fa0045a-50c7-4460-9319-e46939a38bb6" name="Bureau du conservateur" size="EncounterCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="La Collectionneuse"/>
     <property name="Type" value="Location"/>
