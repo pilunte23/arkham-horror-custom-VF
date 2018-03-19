@@ -27,7 +27,7 @@
   <card id="93b4b4ab-eb65-4b78-91fb-022970e0bb01" name="A un Pas des Ténèbres" size="HorizCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="Au bord du gouffre"/>
-    <property name="Type" value="Agenda"/>>
+    <property name="Type" value="Agenda"/>
     <property name="Level" value="3"/>
     <property name="Doom" value="6"/>
     <alternate name="Couloir de la Mort ! " type="B">
